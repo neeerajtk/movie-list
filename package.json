@@ -18,7 +18,7 @@
   "homepage": "https://github.com/neeerajtk/Movie-App#readme",
   "dependencies": {
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "request": "^2.88.2"
   }
 }
